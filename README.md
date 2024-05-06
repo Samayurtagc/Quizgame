@@ -1,2 +1,2 @@
-# Quizgame
+# Doc_GPT
 game APP
